@@ -57,6 +57,9 @@ $ git commit -m "添加 README.md 文件"        # 提交并备注信息
 执行：git push -u origin master
 
 
+
+remark：
+rm *.txt   #删除文件
  
  
 
